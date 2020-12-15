@@ -51,11 +51,11 @@ header {
 .sc3 h4 {
   font-size: 1.2rem; }
 .sc3 .first {
-  width: 100vw;
+  width: 100%;
   margin: 0 auto; }
 
 .sc4 .first {
-  width: 100vw;
+  width: 100%;
   margin: 0 auto;
   font-size: 3em;
   padding: 0.3em; }
@@ -117,7 +117,7 @@ header {
       margin: 0 auto; }
 
 .sc7 .first {
-  width: 100vw;
+  width: 100%;
   margin: 1em auto;
   font-size: 3em;
   padding: 0.3em; }
@@ -128,7 +128,7 @@ header {
     margin: 0;
     font-size: 0.6em; }
 .sc7 .container1 {
-  width: 100vw;
+  width: 100%;
   text-align: center; }
   .sc7 .container1 span {
     display: none; }
@@ -151,7 +151,7 @@ header {
 .sc8 .title p {
   font-size: 0.9rem; }
 .sc8 .container {
-  width: 100vw;
+  width: 100%;
   flex-wrap: wrap;
   text-align: center;
   margin: 0 auto; }
@@ -190,7 +190,7 @@ header {
     margin: 0.5em;
     font-size: 0.8em; }
   .sc10 .container {
-    width: 100vw;
+    width: 100%;
     margin: 1em auto; }
     .sc10 .container img {
       width: 200px;

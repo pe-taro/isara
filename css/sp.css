@@ -106,7 +106,7 @@ header {
       border-radius: 50px;
       font-size: 1.2em; }
   .sc2 .btnbox {
-    width: 100vw;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -700,7 +700,7 @@ header {
     font-size: 1em; }
 
 .sc18 {
-  width: 100vw;
+  width: 100%;
   text-align: center;
   list-style: none; }
   .sc18 #faq-list {
@@ -756,7 +756,7 @@ footer {
     font-size: 0.7em;
     color: #888; }
   footer .btnbox {
-    width: 100vw;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
